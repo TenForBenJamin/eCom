@@ -28,7 +28,13 @@ public class parama
 	public static String HOFs="74889,DE";
 	public static String FCBs="80939,DE";
 	public static String S04="45881,DE";
-	// ßßßßßßßßßßßFCBßßßßßßßßßßßßßßßßßßßßßßßßßßß  FCB
+	public static String Hamburg="20097,DE";
+	public static String de="80939,DE";
+	public static String d="86199,DE";
+	public static String w="74889,DE";
+	public static String e="80939,DE";
+	public static String q="45881,DE";
+	// ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½FCBï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  FCB
 	
 	
 	public static String LEI ="LE2 7FL , GB";
